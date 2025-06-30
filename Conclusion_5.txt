@@ -1,0 +1,17 @@
+Conclusions:
+
+1. Dependent variable "target" appears to be approximately balanced with categories as 0 and 1.
+
+2. There is a moderate positive correlation between cp(chest pain) and the target variable.
+
+3. The variables thalach and target also have moderate positive correlation.
+
+4. The slope of the peak exercise ST segment and target also have a moderate positive correlation.
+
+5. Decision tree classifier classified the data correctly with an accuracy of 0.70 and using Cross validation the accuracy increased upto 0.76.
+
+6. Random Forest classifier classified the data correctly with an accuracy of 0.78 and using Cross validation the accuracy increased upto 0.86.
+
+7. Comparing the accuracy score of both classifier we conclude that Random Forest Classifier is better classifier than decision tree classifier.
+
+
