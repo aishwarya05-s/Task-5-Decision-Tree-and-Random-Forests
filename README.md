@@ -8,3 +8,5 @@ Tree-based models for classification and regression
 4. Compared accuracy of both classifiers
 5. Evaluated using cross-validation
 
+Conclusion: Random Forest Classifier is better classifier then Decision tree classifier.
+
